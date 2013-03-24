@@ -1,0 +1,3 @@
+Point X: 4, Point Y: 6, Point Z: 8
+Point X: 1, Point Y: 9, Point Z: 10
+Point X: 3, Point Y: 6, Point Z: 7

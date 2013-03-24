@@ -1,0 +1,9 @@
+D:\TELERIK\Homework\New folder\1.Choosing type\1.Choosing type\bin\Debug\1.Choosing type.exe.config
+D:\TELERIK\Homework\New folder\1.Choosing type\1.Choosing type\bin\Debug\1.Choosing type.exe
+D:\TELERIK\Homework\New folder\1.Choosing type\1.Choosing type\bin\Debug\1.Choosing type.pdb
+D:\TELERIK\Homework\New folder\1.Choosing type\1.Choosing type\obj\Debug\1.Choosing type.csprojResolveAssemblyReference.cache
+D:\TELERIK\Homework\New folder\1.Choosing type\1.Choosing type\obj\Debug\1.Choosing type.exe
+D:\TELERIK\Homework\New folder\1.Choosing type\1.Choosing type\obj\Debug\1.Choosing type.pdb
+D:\TELERIK\Homework\New folder\Primitive Data Types - Homework\1.Choosing type\1.Choosing type\bin\Debug\1.Choosing type.exe.config
+D:\TELERIK\Homework\New folder\Primitive Data Types - Homework\1.Choosing type\1.Choosing type\obj\Debug\1.Choosing type.exe
+D:\TELERIK\Homework\New folder\Primitive Data Types - Homework\1.Choosing type\1.Choosing type\obj\Debug\1.Choosing type.pdb

@@ -1,0 +1,9 @@
+D:\TELERIK\Homework\New folder\2.Float or Double\2.Float or Double\bin\Debug\2.Float or Double.exe.config
+D:\TELERIK\Homework\New folder\2.Float or Double\2.Float or Double\bin\Debug\2.Float or Double.exe
+D:\TELERIK\Homework\New folder\2.Float or Double\2.Float or Double\bin\Debug\2.Float or Double.pdb
+D:\TELERIK\Homework\New folder\2.Float or Double\2.Float or Double\obj\Debug\2.Float or Double.exe
+D:\TELERIK\Homework\New folder\2.Float or Double\2.Float or Double\obj\Debug\2.Float or Double.pdb
+D:\TELERIK\Homework\New folder\2.Float or Double\2.Float or Double\obj\Debug\2.Float or Double.csprojResolveAssemblyReference.cache
+D:\TELERIK\Homework\New folder\Primitive Data Types - Homework\2.Float or Double\2.Float or Double\bin\Debug\2.Float or Double.exe.config
+D:\TELERIK\Homework\New folder\Primitive Data Types - Homework\2.Float or Double\2.Float or Double\obj\Debug\2.Float or Double.exe
+D:\TELERIK\Homework\New folder\Primitive Data Types - Homework\2.Float or Double\2.Float or Double\obj\Debug\2.Float or Double.pdb

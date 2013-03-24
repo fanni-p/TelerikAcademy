@@ -1,0 +1,5 @@
+D:\TELERIK\Homework\New folder\Primitive Data Types - Homework\4.Int in Hex format\bin\Debug\4.Int in Hex format.exe.config
+D:\TELERIK\Homework\New folder\Primitive Data Types - Homework\4.Int in Hex format\bin\Debug\4.Int in Hex format.exe
+D:\TELERIK\Homework\New folder\Primitive Data Types - Homework\4.Int in Hex format\bin\Debug\4.Int in Hex format.pdb
+D:\TELERIK\Homework\New folder\Primitive Data Types - Homework\4.Int in Hex format\obj\Debug\4.Int in Hex format.exe
+D:\TELERIK\Homework\New folder\Primitive Data Types - Homework\4.Int in Hex format\obj\Debug\4.Int in Hex format.pdb

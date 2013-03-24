@@ -1,0 +1,5 @@
+D:\TELERIK\Homework\Primitive Data Types\Primitive Data Types - Homework\12.ASCII Table\bin\Debug\12.ASCII Table.exe.config
+D:\TELERIK\Homework\Primitive Data Types\Primitive Data Types - Homework\12.ASCII Table\bin\Debug\12.ASCII Table.exe
+D:\TELERIK\Homework\Primitive Data Types\Primitive Data Types - Homework\12.ASCII Table\bin\Debug\12.ASCII Table.pdb
+D:\TELERIK\Homework\Primitive Data Types\Primitive Data Types - Homework\12.ASCII Table\obj\Debug\12.ASCII Table.exe
+D:\TELERIK\Homework\Primitive Data Types\Primitive Data Types - Homework\12.ASCII Table\obj\Debug\12.ASCII Table.pdb

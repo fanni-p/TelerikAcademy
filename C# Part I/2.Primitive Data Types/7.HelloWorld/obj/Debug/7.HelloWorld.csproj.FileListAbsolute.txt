@@ -1,0 +1,6 @@
+D:\TELERIK\Homework\New folder\Primitive Data Types - Homework\7.HelloWorld\bin\Debug\7.HelloWorld.exe.config
+D:\TELERIK\Homework\New folder\Primitive Data Types - Homework\7.HelloWorld\bin\Debug\7.HelloWorld.exe
+D:\TELERIK\Homework\New folder\Primitive Data Types - Homework\7.HelloWorld\bin\Debug\7.HelloWorld.pdb
+D:\TELERIK\Homework\New folder\Primitive Data Types - Homework\7.HelloWorld\obj\Debug\7.HelloWorld.exe
+D:\TELERIK\Homework\New folder\Primitive Data Types - Homework\7.HelloWorld\obj\Debug\7.HelloWorld.pdb
+D:\TELERIK\Homework\New folder\Primitive Data Types - Homework\7.HelloWorld\obj\Debug\7.HelloWorld.csprojResolveAssemblyReference.cache

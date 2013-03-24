@@ -1,0 +1,6 @@
+D:\TELERIK\Homework\New folder\Primitive Data Types - Homework\5.Unicode Symbol\bin\Debug\5.Unicode Symbol.exe.config
+D:\TELERIK\Homework\New folder\Primitive Data Types - Homework\5.Unicode Symbol\bin\Debug\5.Unicode Symbol.exe
+D:\TELERIK\Homework\New folder\Primitive Data Types - Homework\5.Unicode Symbol\bin\Debug\5.Unicode Symbol.pdb
+D:\TELERIK\Homework\New folder\Primitive Data Types - Homework\5.Unicode Symbol\obj\Debug\5.Unicode Symbol.csprojResolveAssemblyReference.cache
+D:\TELERIK\Homework\New folder\Primitive Data Types - Homework\5.Unicode Symbol\obj\Debug\5.Unicode Symbol.exe
+D:\TELERIK\Homework\New folder\Primitive Data Types - Homework\5.Unicode Symbol\obj\Debug\5.Unicode Symbol.pdb

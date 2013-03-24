@@ -1,0 +1,6 @@
+D:\TELERIK\Homework\Primitive Data Types\Primitive Data Types - Homework\10.Firm Database\bin\Debug\10.Firm Database.exe.config
+D:\TELERIK\Homework\Primitive Data Types\Primitive Data Types - Homework\10.Firm Database\bin\Debug\10.Firm Database.exe
+D:\TELERIK\Homework\Primitive Data Types\Primitive Data Types - Homework\10.Firm Database\bin\Debug\10.Firm Database.pdb
+D:\TELERIK\Homework\Primitive Data Types\Primitive Data Types - Homework\10.Firm Database\obj\Debug\10.Firm Database.csprojResolveAssemblyReference.cache
+D:\TELERIK\Homework\Primitive Data Types\Primitive Data Types - Homework\10.Firm Database\obj\Debug\10.Firm Database.exe
+D:\TELERIK\Homework\Primitive Data Types\Primitive Data Types - Homework\10.Firm Database\obj\Debug\10.Firm Database.pdb

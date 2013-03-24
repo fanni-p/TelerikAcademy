@@ -1,0 +1,9 @@
+D:\TELERIK\Homework\New folder\Primitive Data Types - Homework\6.IsFemale\bin\Debug\6.IsFemale.exe.config
+D:\TELERIK\Homework\New folder\Primitive Data Types - Homework\6.IsFemale\bin\Debug\6.IsFemale.exe
+D:\TELERIK\Homework\New folder\Primitive Data Types - Homework\6.IsFemale\bin\Debug\6.IsFemale.pdb
+D:\TELERIK\Homework\New folder\Primitive Data Types - Homework\6.IsFemale\obj\Debug\6.IsFemale.csprojResolveAssemblyReference.cache
+D:\TELERIK\Homework\New folder\Primitive Data Types - Homework\6.IsFemale\obj\Debug\6.IsFemale.exe
+D:\TELERIK\Homework\New folder\Primitive Data Types - Homework\6.IsFemale\obj\Debug\6.IsFemale.pdb
+D:\TELERIK\Homework\Primitive Data Types\Primitive Data Types - Homework\6.IsFemale\bin\Debug\6.IsFemale.exe.config
+D:\TELERIK\Homework\Primitive Data Types\Primitive Data Types - Homework\6.IsFemale\obj\Debug\6.IsFemale.exe
+D:\TELERIK\Homework\Primitive Data Types\Primitive Data Types - Homework\6.IsFemale\obj\Debug\6.IsFemale.pdb

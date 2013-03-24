@@ -1,0 +1,9 @@
+D:\TELERIK\Homework\New folder\Primitive Data Types - Homework\9.CopyrightSymbol\bin\Debug\9.CopyrightSymbol.exe.config
+D:\TELERIK\Homework\New folder\Primitive Data Types - Homework\9.CopyrightSymbol\bin\Debug\9.CopyrightSymbol.exe
+D:\TELERIK\Homework\New folder\Primitive Data Types - Homework\9.CopyrightSymbol\bin\Debug\9.CopyrightSymbol.pdb
+D:\TELERIK\Homework\New folder\Primitive Data Types - Homework\9.CopyrightSymbol\obj\Debug\9.CopyrightSymbol.exe
+D:\TELERIK\Homework\New folder\Primitive Data Types - Homework\9.CopyrightSymbol\obj\Debug\9.CopyrightSymbol.pdb
+D:\TELERIK\Homework\New folder\Primitive Data Types - Homework\9.CopyrightSymbol\obj\Debug\9.CopyrightSymbol.csprojResolveAssemblyReference.cache
+D:\TELERIK\Homework\Primitive Data Types\Primitive Data Types - Homework\9.CopyrightSymbol\bin\Debug\9.CopyrightSymbol.exe.config
+D:\TELERIK\Homework\Primitive Data Types\Primitive Data Types - Homework\9.CopyrightSymbol\obj\Debug\9.CopyrightSymbol.exe
+D:\TELERIK\Homework\Primitive Data Types\Primitive Data Types - Homework\9.CopyrightSymbol\obj\Debug\9.CopyrightSymbol.pdb

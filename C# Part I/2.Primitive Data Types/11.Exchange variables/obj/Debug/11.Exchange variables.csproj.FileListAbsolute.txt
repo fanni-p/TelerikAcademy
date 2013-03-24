@@ -1,0 +1,6 @@
+D:\TELERIK\Homework\Primitive Data Types\Primitive Data Types - Homework\11.Exchange variables\bin\Debug\11.Exchange variables.exe.config
+D:\TELERIK\Homework\Primitive Data Types\Primitive Data Types - Homework\11.Exchange variables\bin\Debug\11.Exchange variables.exe
+D:\TELERIK\Homework\Primitive Data Types\Primitive Data Types - Homework\11.Exchange variables\bin\Debug\11.Exchange variables.pdb
+D:\TELERIK\Homework\Primitive Data Types\Primitive Data Types - Homework\11.Exchange variables\obj\Debug\11.Exchange variables.csprojResolveAssemblyReference.cache
+D:\TELERIK\Homework\Primitive Data Types\Primitive Data Types - Homework\11.Exchange variables\obj\Debug\11.Exchange variables.exe
+D:\TELERIK\Homework\Primitive Data Types\Primitive Data Types - Homework\11.Exchange variables\obj\Debug\11.Exchange variables.pdb

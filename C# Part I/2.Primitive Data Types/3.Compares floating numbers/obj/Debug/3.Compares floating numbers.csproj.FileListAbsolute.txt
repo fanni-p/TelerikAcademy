@@ -1,0 +1,9 @@
+D:\TELERIK\Homework\New folder\Primitive Data Types - Homework\3.Compares floating numbers\bin\Debug\3.Compares floating numbers.exe.config
+D:\TELERIK\Homework\New folder\Primitive Data Types - Homework\3.Compares floating numbers\obj\Debug\3.Compares floating numbers.csprojResolveAssemblyReference.cache
+D:\TELERIK\Homework\New folder\Primitive Data Types - Homework\3.Compares floating numbers\bin\Debug\3.Compares floating numbers.exe
+D:\TELERIK\Homework\New folder\Primitive Data Types - Homework\3.Compares floating numbers\bin\Debug\3.Compares floating numbers.pdb
+D:\TELERIK\Homework\New folder\Primitive Data Types - Homework\3.Compares floating numbers\obj\Debug\3.Compares floating numbers.exe
+D:\TELERIK\Homework\New folder\Primitive Data Types - Homework\3.Compares floating numbers\obj\Debug\3.Compares floating numbers.pdb
+D:\TELERIK\Homework\Primitive Data Types\Primitive Data Types - Homework\3.Compares floating numbers\bin\Debug\3.Compares floating numbers.exe.config
+D:\TELERIK\Homework\Primitive Data Types\Primitive Data Types - Homework\3.Compares floating numbers\obj\Debug\3.Compares floating numbers.exe
+D:\TELERIK\Homework\Primitive Data Types\Primitive Data Types - Homework\3.Compares floating numbers\obj\Debug\3.Compares floating numbers.pdb

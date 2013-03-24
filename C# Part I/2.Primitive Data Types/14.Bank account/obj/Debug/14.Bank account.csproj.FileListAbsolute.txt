@@ -1,0 +1,6 @@
+D:\TELERIK\Homework\Primitive Data Types\Primitive Data Types - Homework\14.Bank account\bin\Debug\14.Bank account.exe.config
+D:\TELERIK\Homework\Primitive Data Types\Primitive Data Types - Homework\14.Bank account\obj\Debug\14.Bank account.csprojResolveAssemblyReference.cache
+D:\TELERIK\Homework\Primitive Data Types\Primitive Data Types - Homework\14.Bank account\bin\Debug\14.Bank account.exe
+D:\TELERIK\Homework\Primitive Data Types\Primitive Data Types - Homework\14.Bank account\bin\Debug\14.Bank account.pdb
+D:\TELERIK\Homework\Primitive Data Types\Primitive Data Types - Homework\14.Bank account\obj\Debug\14.Bank account.exe
+D:\TELERIK\Homework\Primitive Data Types\Primitive Data Types - Homework\14.Bank account\obj\Debug\14.Bank account.pdb

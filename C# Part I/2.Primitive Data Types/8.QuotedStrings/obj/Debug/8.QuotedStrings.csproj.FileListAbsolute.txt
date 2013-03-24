@@ -1,0 +1,9 @@
+D:\TELERIK\Homework\New folder\Primitive Data Types - Homework\9.QuotedStrings\bin\Debug\9.QuotedStrings.exe.config
+D:\TELERIK\Homework\New folder\Primitive Data Types - Homework\9.QuotedStrings\bin\Debug\9.QuotedStrings.exe
+D:\TELERIK\Homework\New folder\Primitive Data Types - Homework\9.QuotedStrings\bin\Debug\9.QuotedStrings.pdb
+D:\TELERIK\Homework\New folder\Primitive Data Types - Homework\9.QuotedStrings\obj\Debug\8.QuotedStrings.csprojResolveAssemblyReference.cache
+D:\TELERIK\Homework\New folder\Primitive Data Types - Homework\9.QuotedStrings\obj\Debug\9.QuotedStrings.exe
+D:\TELERIK\Homework\New folder\Primitive Data Types - Homework\9.QuotedStrings\obj\Debug\9.QuotedStrings.pdb
+D:\TELERIK\Homework\Primitive Data Types\Primitive Data Types - Homework\8.QuotedStrings\bin\Debug\9.QuotedStrings.exe.config
+D:\TELERIK\Homework\Primitive Data Types\Primitive Data Types - Homework\8.QuotedStrings\obj\Debug\9.QuotedStrings.exe
+D:\TELERIK\Homework\Primitive Data Types\Primitive Data Types - Homework\8.QuotedStrings\obj\Debug\9.QuotedStrings.pdb

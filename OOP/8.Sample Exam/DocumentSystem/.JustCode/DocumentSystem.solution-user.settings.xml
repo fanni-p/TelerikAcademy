@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<JustCodeSettings Version="0.0" Timestamp="3e268a74-4050-4d6b-ac49-7d13025bb9e3">
+  <IgnoredErrorsAndWarningsSettings xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+    <IgnoredErrorsAndWarnings>
+      <FilePath>
+        <Path>D:\TELERIK\4.OOP\8.Sample Exam\DocumentSystem-Skeleton\Document.cs</Path>
+        <ProjectFullName>D:\TELERIK\4.OOP\8.Sample Exam\DocumentSystem-Skeleton\DocumentSystem.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>19</Column>
+          <Text>Unknown method &lt;/C&gt;Add(string, string)&lt;//C&gt; of &lt;/C&gt;System.Collections.Generic.IList&lt;System.Collections.Generic.KeyValuePair&lt;string, object&gt;&gt;&lt;//C&gt;</Text>
+          <Line>25</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>20</Column>
+          <Text>Move Variable Declaration To Parameter</Text>
+          <Line>25</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>19</Column>
+          <Text>Unknown method &lt;/C&gt;Add(string, string)&lt;//C&gt; of &lt;/C&gt;System.Collections.Generic.IList&lt;System.Collections.Generic.KeyValuePair&lt;string, object&gt;&gt;&lt;//C&gt;</Text>
+          <Line>24</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>20</Column>
+          <Text>Move Variable Declaration To Parameter</Text>
+          <Line>24</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>19</Column>
+          <Text>Unknown method &lt;/C&gt;Add(string, string)&lt;//C&gt; of &lt;/C&gt;System.Collections.Generic.IList&lt;System.Collections.Generic.KeyValuePair&lt;string, object&gt;&gt;&lt;//C&gt;</Text>
+          <Line>23</Line>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <Path>D:\TELERIK\4.OOP\8.Sample Exam\DocumentSystem-Skeleton\TextDocument.cs</Path>
+        <ProjectFullName>D:\TELERIK\4.OOP\8.Sample Exam\DocumentSystem-Skeleton\DocumentSystem.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>19</Column>
+          <Text>Unknown method &lt;/C&gt;Add(string, string)&lt;//C&gt; of &lt;/C&gt;System.Collections.Generic.IList&lt;System.Collections.Generic.KeyValuePair&lt;string, object&gt;&gt;&lt;//C&gt;</Text>
+          <Line>22</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>20</Column>
+          <Text>Move Variable Declaration To Parameter</Text>
+          <Line>22</Line>
+        </IgnoredElement>
+        <IgnoredElement>
+          <Column>31</Column>
+          <Text>Qualifier 'this.' is redundant</Text>
+          <Line>22</Line>
+        </IgnoredElement>
+      </FilePath>
+    </IgnoredErrorsAndWarnings>
+  </IgnoredErrorsAndWarningsSettings>
+</JustCodeSettings>
